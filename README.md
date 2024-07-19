@@ -45,9 +45,9 @@ To run this project locally, follow these steps:
 
 <h1>💻 Technologies Used</h1>
 
-- HTML
-- CSS
-- JavaScript
+- ## HTML
+- ## CSS
+- ## JavaScript
 ---
 
 <h4>License</h1>
