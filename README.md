@@ -10,15 +10,15 @@ This project is a basic to-do list with a capacity of 10 tasks that you want/nee
 
 Also this project has been made with two colors, `#0E0E0E` and `#01D856`.
 
+- Background Color: #0E0E0E
+- Accent Color: #01D856
+
 ### 📂 Features
 - Add Tasks: You can add up to 10 tasks to your to-do list.
 - Task Completion: Mark tasks as complete to keep track of your progress.
 - Delete Tasks: Remove tasks from your list once they are done or no longer needed.
 - Responsive Design: The layout adapts to various screen sizes for optimal usability.
 
-- Background Color: #0E0E0E
-- Accent Color: #01D856
-  
 ---
 <h2>🚀 Future Enhancements</h3>
 
