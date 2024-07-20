@@ -33,7 +33,7 @@ Here are some features planned for future updates:
 <h3>🔧 Installation</h3>
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/todo-list.git`
+1. Clone the repository: `git clone https://github.com/GaabsPlaays/To-do-List.git`
 
 2. Navigate to the project directory:
 
