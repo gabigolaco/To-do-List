@@ -37,7 +37,7 @@ To run this project locally, follow these steps:
 
 2. Navigate to the project directory:
 
-`cd todo-list`
+`cd To-Do-List`
 
 3. Open index.html in your preferred web browser.
 
