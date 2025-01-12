@@ -1,7 +1,7 @@
 let addButton = document.getElementById('ButtongetTask')
 let list = document.getElementById('list')
 let limite = []
-addButton.addEventListener('click', add)
+addButton.addEventListener('click', add
 
 
 function add(event) {
